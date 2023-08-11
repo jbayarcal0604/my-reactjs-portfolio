@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shadowtechs.github.io/static/css/main.e134ea6f.css",
+    "main.js": "/shadowtechs.github.io/static/js/main.2f819e88.js",
+    "static/media/cv.pdf": "/shadowtechs.github.io/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/profile3.png": "/shadowtechs.github.io/static/media/profile3.dd4ea61e01ca7696cba7.png",
+    "static/media/portfolio5.png": "/shadowtechs.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/profile1.jpg": "/shadowtechs.github.io/static/media/profile1.4de30f7b33ad79d95596.jpg",
+    "static/media/portfolio2.jpg": "/shadowtechs.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/shadowtechs.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/shadowtechs.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/shadowtechs.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/shadowtechs.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/shadowtechs.github.io/index.html",
+    "main.e134ea6f.css.map": "/shadowtechs.github.io/static/css/main.e134ea6f.css.map",
+    "main.2f819e88.js.map": "/shadowtechs.github.io/static/js/main.2f819e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e134ea6f.css",
+    "static/js/main.2f819e88.js"
+  ]
+}
